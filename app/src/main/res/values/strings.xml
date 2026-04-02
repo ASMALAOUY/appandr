@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">projetfstmaapp</string>
+    <string name="app_title">Gestion Etudiants</string>
+    <string name="app_subtitle">Base de donnees locale SQLite</string>
+    <string name="section_add">AJOUTER UN ETUDIANT</string>
+    <string name="section_search">RECHERCHER / SUPPRIMER</string>
+    <string name="label_nom">NOM</string>
+    <string name="label_prenom">PRENOM</string>
+    <string name="label_id">ID ETUDIANT</string>
+    <string name="hint_nom">ex : ALAMI</string>
+    <string name="hint_prenom">ex : AMAL</string>
+    <string name="hint_id">ex : 3</string>
+    <string name="btn_valider">Valider</string>
+    <string name="btn_chercher">Chercher</string>
+    <string name="btn_chercher_short">OK</string>
+    <string name="btn_supprimer">Supprimer</string>
+    <string name="btn_supprimer_short">X</string>
+    <string name="badge_found">Trouve</string>
+    <string name="stat_total">Etudiants</string>
+    <string name="stat_added">Ajoute</string>
+    <string name="stat_deleted">Supprime</string>
+    <string name="btn_liste">Liste</string>
+    <string name="btn_modifier">Modifier</string>
+    <string name="title_liste">Liste des etudiants</string>
+    <string name="dialog_title_modifier">Modifier etudiant</string>
+    <plurals name="etudiant_count">
+        <item quantity="one">%d étudiant</item>
+        <item quantity="other">%d étudiants</item>
+    </plurals>
+    <string name="confirmer">Confirmer</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="annuler">Annuler</string>
+    <string name="enregistrer">Enregistrer</string>
+
+    <!-- Messages ajoutés -->
+    <string name="msg_supprimer_confirmer">Supprimer %1$s %2$s ?</string>
+    <string name="msg_etudiant_supprime">Étudiant supprimé</string>
+    <string name="msg_champs_vides">Veuillez remplir tous les champs</string>
+    <string name="msg_modifie_succes">Modification réussie</string>
+</resources>
