@@ -36,7 +36,5 @@ Elle permet d’**ajouter**, **rechercher**, **modifier** et **supprimer** des �
 
 ## demo
 
-> *Ajoutez ici des captures d’écran de votre application (écran principal, liste, dialog de modification).*
 
----
 
